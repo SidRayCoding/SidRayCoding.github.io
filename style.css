@@ -1,0 +1,21 @@
+body {
+  background: white;
+  width:50%;
+  margin:auto;
+}
+p {
+  background-color: gray;
+  color: whitesmoke;
+  border-color: black;
+  border-width: thick
+}
+h1 {
+  font-weight: bold;
+  font-family: ;
+  color: white
+}
+h2 {
+  font-weight: bold;
+  font-family: ;
+  color: white
+}
